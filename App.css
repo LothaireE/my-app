@@ -1,11 +1,19 @@
-.App {
+/* .App {
   background-color: #c4c4c4;
   width: 620px;
   height: 283px;
   position: relative;
+} */
+
+.Content {
+  background-color: #c4c4c4;
+  width: 620px;
+  height: 283px;
+  position: relative;
+  margin-bottom: 25px;
 }
 
-.App h1 {
+.Content h1 {
   position: absolute;
   left: 16px;
   top: 15px;
@@ -13,7 +21,7 @@
   font-size: 30px;
   line-height: 35px;
 }
-.App p {
+.Content p {
   font-size: 18px;
   line-height: 21px;
   position: absolute;
